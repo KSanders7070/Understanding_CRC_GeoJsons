@@ -6,7 +6,7 @@ The Consolidated Radar Client (CRC), built for VATSIM Network-VATUSA Division Vi
 
 In this document, we will cover LineString (including MultiLineString), Symbol (Point), and Text (Point) features, how CRC makes use of this data, and common issues or non-standard situations that may present themselves.
 
-- CRC is capable of rendering polygon features for "Tower-CAB" windows but that will not be covered here.
+- CRC is capable of rendering polygon features for "Tower-CAB" windows but that will not be covered here, yet.
 
 ## GeoJson Feature Types & Associated Keys/Values
 
